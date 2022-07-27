@@ -1,0 +1,27 @@
+
+.margin {
+    margin-top: 60px;
+}
+
+.container-nav {
+    box-sizing: border-box;
+    padding-left: 80px;
+    padding-right: 80px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navbar-nav {
+    gap: 40px;
+}
+
+
+h3{
+    color: rgb(92, 91, 91);
+}
+
+p {
+    color: rgba(0, 0, 0, 0.55);
+    margin-top: 20px;
+}
+
