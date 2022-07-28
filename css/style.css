@@ -1,9 +1,12 @@
 
 .margin {
     margin-top: 60px;
+    margin-bottom: 60px;
 }
 
 .container-nav {
+    display: flex;
+    justify-content: space-between;
     box-sizing: border-box;
     padding-left: 80px;
     padding-right: 80px;
@@ -15,13 +18,33 @@
     gap: 40px;
 }
 
-
 h3{
     color: rgb(92, 91, 91);
+    margin-bottom: 20px ;
 }
 
 p {
     color: rgba(0, 0, 0, 0.55);
     margin-top: 20px;
+}
+
+#parceiros {
+    background-color: #f8f9fa;
+    padding: 40px 0;
+}
+
+.bg-footer {
+    background-color: #f8f9fa;
+    color: rgb(92, 91, 91);
+
+}
+
+.centralizar {
+    display: flex;
+    justify-content: right;
+}
+
+footer {
+    padding: 20px 0;
 }
 
