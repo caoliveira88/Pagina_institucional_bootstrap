@@ -33,6 +33,14 @@ p {
     padding: 40px 0;
 }
 
+@media (max-width: 991px) {
+    .parceiros {
+        width: 30%;    
+        margin-bottom: 30px;
+    }
+}
+
+
 .bg-footer {
     background-color: #f8f9fa;
     color: rgb(92, 91, 91);
