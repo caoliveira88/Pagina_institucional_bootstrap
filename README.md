@@ -1,11 +1,13 @@
-# Aula_bootstrap_DIO
-Desenvolvimento de página institucional, utilizando conhecimentos adquiridos na aula Bootstrap - DIO
+# Pagina_institucional_bootstrap
+Desenvolvimento de página institucional, utilizando conhecimentos adquiridos no curso de Bootstrap.
 
-![Aula_bootstrap_DIO](img/pagina-institucional-bootstrap.jpg)
+![Pagina_institucional_bootstrap](img/pagina-institucional-bootstrap.jpg)
 
-## Tecnicas e ferramentas utilizadas
-- ``HTML``
-- ``CSS``
-- ``Bootstrap``
-- ``Adobe Photoshop``
-- ``VS Code IDEA``
+## Tool kit
+- ``HTML:`` Implementação de estrutura.
+- ``CSS:`` Aplicação de estilos
+- ``Bootstrap:`` Biblioteca de componentes, utilizando elementos para desenvolvimento personalizado.
+- ``Adobe Photoshop:`` Edição e aprimoramento de elementos gráficos
+- ``VS Code IDEA:`` Plataforma de desenvolvimento.
+
+
